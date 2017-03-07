@@ -57,6 +57,7 @@
     <Compile Include="Dynamic\CustomObject.cs" />
     <Compile Include="Dynamic\ExpandableObject.cs" />
     <Compile Include="Extensions\BooleanExtensions.cs" />
+    <Compile Include="Extensions\CollectionExtensions.cs" />
     <Compile Include="Extensions\DateTimeExtensions.cs" />
     <Compile Include="Extensions\DecimalExtensions.cs" />
     <Compile Include="Extensions\DictionaryExtensions.cs" />

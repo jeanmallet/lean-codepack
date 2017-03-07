@@ -55,6 +55,7 @@
     <Compile Include="Dynamic\ExpandableObjectTest_Should.cs" />
     <Compile Include="Extensions\BooleanExtensions_Should.cs" />
     <Compile Include="Extensions\DateTimeExtensions_Should.cs" />
+    <Compile Include="Extensions\CollectionExtensions_Should.cs" />
     <Compile Include="Extensions\EnumExtensions_Should.cs" />
     <Compile Include="Extensions\FormattersExtensions_Should.cs" />
     <Compile Include="Extensions\EnumerableExtensions_Should.cs" />
